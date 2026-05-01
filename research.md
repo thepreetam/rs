@@ -14,6 +14,7 @@ This document does not arbitrate between these positions—it integrates them. R
 
 ---
 
+
 ## II. Financial Baseline and Data Validation
 
 ### 2.1 Q1 2026 Financial Position
@@ -53,6 +54,7 @@ All three mechanisms are plausible. None is assured. The Q2 2026 earnings report
 
 ---
 
+
 ## III. Client Case Study Evidence: What Is Actually Proven
 
 ### 3.1 The Ypê Proof Point
@@ -79,6 +81,7 @@ Every other published client reference requires more careful classification:
 **Synthesized assessment**: The strongest validated proof point is Ypê—a production deployment with independently attributable, quantified results delivered within four months of the Agentic UX platform launch. This is exactly what early-stage enterprise AI traction looks like: a flagship reference client, 26 pilots in the pipeline, and the remainder of the 3,130-client installed base as a cross-sell opportunity. The more relevant metric is the pilot-to-production conversion rate over the next four quarters, not the static ratio against the full support client base. If Rimini converts even 10-15% of the 26 pilots into published, quantified case studies by Q1 2027, that trajectory would be consistent with enterprise AI platform adoption patterns at comparable scale.
 
 ---
+
 
 ## IV. Market Opportunity and Competitive Landscape
 
@@ -128,6 +131,7 @@ Rimini's competitive moat rests on five pillars with varying defensibility:
 
 ---
 
+
 ## V. Agentic AI Revenue Ramp: The Critical Assumption
 
 ### 5.1 The 15% Target Under Stress
@@ -153,6 +157,7 @@ The hockey stick inflection point depends on three structural factors:
 The synthesized timeline: Phase 1 (2026) proves product-market fit with 3-5 referenceable deployments. Phase 2 (2027) accelerates with 100-200 clients. Phase 3 (2028+) scales to 500+ clients.
 
 ---
+
 
 ## VI. The ServiceNow Partnership: Deep Analysis
 
@@ -188,6 +193,7 @@ Status Quo is assessed as the most probable outcome (55%), given that ServiceNow
 
 ---
 
+
 ## VII. PeopleSoft Wind-Down: The Known Unknown
 
 ### 7.1 Magnitude and Timeline
@@ -211,6 +217,7 @@ The most realistic replacement path involves three parallel strategies:
 The probability of fully offsetting the $30M revenue gap by mid-2027 is assessed at 40-50%—achievable but requiring discipline.
 
 ---
+
 
 ## VIII. Financial Modeling and Scenario Analysis
 
@@ -270,6 +277,7 @@ An EV/EBITDA of 13.4x is within the healthy range for profitable software compan
 
 ---
 
+
 ## IX. The Rule of 40 Gap
 
 ### 9.1 The Timing Problem
@@ -288,6 +296,7 @@ No realistic scenario achieves Rule of 40 (combined revenue growth rate + EBITDA
 The Rule of 40 gap means the P/E multiple expansion from 8-9x to 20-25x depends on a narrative shift—investors accepting the "AI platform" story before the empirical metric of Rule of 40 is achieved. This is possible but requires consistent beat-and-raise quarters, referenceable case study production, and analyst coverage initiation. The alternative path—waiting for Rule of 40 achievement before the re-rating—pushes the $15 target to 2029-2030.
 
 ---
+
 
 ## X. Risk Assessment and Mitigation
 
@@ -315,6 +324,7 @@ The shift to Agentic AI introduces a new cost structure: AI inference tokens. As
 
 ---
 
+
 ## XI. Catalysts and Milestones
 
 ### 11.1 Next Four Quarters: Critical Metrics
@@ -340,6 +350,7 @@ The shift to Agentic AI introduces a new cost structure: AI inference tokens. As
 
 ---
 
+
 ## XII. M&A Optionality
 
 ### 12.1 Acquisition Framework
@@ -361,6 +372,7 @@ On TTM revenue of approximately $422M, the current EV/Revenue multiple is approx
 Probability of acquisition within 24 months: 15-20%, rising to 30-40% within 48 months if Rimini successfully demonstrates AI product-market fit but struggles to scale independently. The accretion math is compelling at current prices.
 
 ---
+
 
 ## XIII. Actionable Recommendations
 
@@ -390,6 +402,7 @@ Probability of acquisition within 24 months: 15-20%, rising to 30-40% within 48 
 
 ---
 
+
 ## XIV. Key Questions for Q2 2026 Earnings
 
 1. **Agentic AI Revenue Recognition and Pipeline Depth**: "Can you quantify Agentic UX revenue as a percentage of total revenue in Q2, and provide the number of paying Agentic AI clients? What is the pipeline in dollars and typical sales cycle length?"
@@ -403,6 +416,7 @@ Probability of acquisition within 24 months: 15-20%, rising to 30-40% within 48 
 5. **Competitive Positioning vs. Bundled AI**: "SAP Joule and Oracle AI agents are included at no incremental cost for cloud customers. How does Rimini compete against 'free' bundled AI from the ERP vendors, and what is your win rate when clients evaluate Rimini vs. vendor-native AI?"
 
 ---
+
 
 ## XV. Conclusion: The Integrated Verdict
 
@@ -425,41 +439,42 @@ The single most important near-term action management can take is to set achieva
 
 ---
 
+
 ## XVI. References and Sources
 
-Rimini Street Q1 2026 Earnings Release, Business Wire, April 30, 2026
-Rimini Street Q1 2026 Earnings Call Transcript, Investing.com, April 30, 2026
-Rimini Street FY2025 10-K Filing, SEC EDGAR, February 19, 2026
-Rimini Street Investor Day 2025 Slide Deck, December 3, 2025
-Rimini Street Press Release, "Ypê Deepens Partnership with Rimini Street to Accelerate Agentic AI," January 30, 2026
-Rimini Street Press Release, "Rimini Street Delivers First 20 Rimini Agentic UX Solutions," January 22, 2026
-Rimini Street Press Release, "Rimini Street Wins 3 Stevie Awards for Customer Service," March 24, 2026
-Rimini Street Press Release, "Rimini Street Announces Debt Reduction & Credit Agreement Amendment," April 1, 2026
-Rimini Street Press Release, "LF Chooses Rimini Street to Optimize Support & Drive Innovation," February 3, 2026
-Rimini Street, "Street Smart Houston 2026: Pragmatic Pathways to Agentic AI ERP"
-Rimini Street, "Lotte Rental Speeds Growth and Innovation," AFP/Business Wire, March 31, 2026
-Gartner, "Forecasts Supply Chain Management Software with Agentic AI Will Grow to $53 Billion in Spend by 2030," April 7, 2026
-Gartner, "Over 40% of Agentic AI Projects Will Be Canceled by End of 2027," June 25, 2025
-Gartner, "2026 Hype Cycle for Agentic AI"
-IDC, "Agentic AI Market Outlook 2026" (via Information Matters)
-Grand View Research, "Enterprise Agentic AI Market Size, 2024-2030"
-Constellation Research, "Rimini Street's Second Act Will Include Heavy Dose of Agentic AI, UX," December 14, 2025
-Constellation Research, "Enterprise Intelligence April 2026: Three Observations Every Board Briefing Should Include"
-Verified Market Reports, "Third-Party Support for ERP Market Outlook 2025"
-AI Multiple, "SAP AI Agents in 2026: Joule Studio Features & Case Studies," February 5, 2026
-Prolifics, "SAP Joule Agentic AI 2026: Autonomous ERP," February 11, 2026
-ERP Pilot, "AI in ERP Systems 2026: What Works?," February 15, 2026
-Diginomica, "Pega Targets $2B Revenue Milestone as It Bets on 'Predictable AI'," February 11, 2026
-ServiceNow, "AI Agent Orchestrator, AI Agent Studio, AI Control Tower" Platform Documentation, 2026
-Winklix, "How ServiceNow AI Agents Are Transforming Enterprise Workflows in 2026," March 11, 2026
-Kellton Tech, "ServiceNow AI Agents and Agentic Automation 2026," January 30, 2026
-StockAnalysis.com, "ServiceNow (NOW) Revenue 2009-2026," April 23, 2026
-Multiples.vc, "Public Software Valuation Multiples," April 2026
-Axial, "SaaS Multiples: A Guide for Business Owners," 2026
-ClearlyAcquired, "EBITDA Multiples for SaaS and Software Companies," 2025-2026
-McKinsey & Company, "SaaS and the Rule of 40: Keys to the Critical Value Creation Metric," August 2021
-SoftwareSeni, "Is Monolithic ERP Architecturally Obsolete and What the SAP Crisis Signals," March 26, 2026
-Mondaq/Tactical Law Group, "The Oracle-Rimini Settlement And What It Means For Oracle Customers," April 22, 2026
+- Rimini Street Q1 2026 Earnings Release, Business Wire, April 30, 2026
+- Rimini Street Q1 2026 Earnings Call Transcript, Investing.com, April 30, 2026
+- Rimini Street FY2025 10-K Filing, SEC EDGAR, February 19, 2026
+- Rimini Street Investor Day 2025 Slide Deck, December 3, 2025
+- Rimini Street Press Release, "Ypê Deepens Partnership with Rimini Street to Accelerate Agentic AI," January 30, 2026
+- Rimini Street Press Release, "Rimini Street Delivers First 20 Rimini Agentic UX Solutions," January 22, 2026
+- Rimini Street Press Release, "Rimini Street Wins 3 Stevie Awards for Customer Service," March 24, 2026
+- Rimini Street Press Release, "Rimini Street Announces Debt Reduction & Credit Agreement Amendment," April 1, 2026
+- Rimini Street Press Release, "LF Chooses Rimini Street to Optimize Support & Drive Innovation," February 3, 2026
+- Rimini Street, "Street Smart Houston 2026: Pragmatic Pathways to Agentic AI ERP"
+- Rimini Street, "Lotte Rental Speeds Growth and Innovation," AFP/Business Wire, March 31, 2026
+- Gartner, "Forecasts Supply Chain Management Software with Agentic AI Will Grow to $53 Billion in Spend by 2030," April 7, 2026
+- Gartner, "Over 40% of Agentic AI Projects Will Be Canceled by End of 2027," June 25, 2025
+- Gartner, "2026 Hype Cycle for Agentic AI"
+- IDC, "Agentic AI Market Outlook 2026" (via Information Matters)
+- Grand View Research, "Enterprise Agentic AI Market Size, 2024-2030"
+- Constellation Research, "Rimini Street's Second Act Will Include Heavy Dose of Agentic AI, UX," December 14, 2025
+- Constellation Research, "Enterprise Intelligence April 2026: Three Observations Every Board Briefing Should Include"
+- Verified Market Reports, "Third-Party Support for ERP Market Outlook 2025"
+- AI Multiple, "SAP AI Agents in 2026: Joule Studio Features & Case Studies," February 5, 2026
+- Prolifics, "SAP Joule Agentic AI 2026: Autonomous ERP," February 11, 2026
+- ERP Pilot, "AI in ERP Systems 2026: What Works?," February 15, 2026
+- Diginomica, "Pega Targets $2B Revenue Milestone as It Bets on 'Predictable AI'," February 11, 2026
+- ServiceNow, "AI Agent Orchestrator, AI Agent Studio, AI Control Tower" Platform Documentation, 2026
+- Winklix, "How ServiceNow AI Agents Are Transforming Enterprise Workflows in 2026," March 11, 2026
+- Kellton Tech, "ServiceNow AI Agents and Agentic Automation 2026," January 30, 2026
+- StockAnalysis.com, "ServiceNow (NOW) Revenue 2009-2026," April 23, 2026
+- Multiples.vc, "Public Software Valuation Multiples," April 2026
+- Axial, "SaaS Multiples: A Guide for Business Owners," 2026
+- ClearlyAcquired, "EBITDA Multiples for SaaS and Software Companies," 2025-2026
+- McKinsey & Company, "SaaS and the Rule of 40: Keys to the Critical Value Creation Metric," August 2021
+- SoftwareSeni, "Is Monolithic ERP Architecturally Obsolete and What the SAP Crisis Signals," March 26, 2026
+- Mondaq/Tactical Law Group, "The Oracle-Rimini Settlement And What It Means For Oracle Customers," April 22, 2026
 
 ---
 

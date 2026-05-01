@@ -31,7 +31,6 @@
 
 ---
 
-\newpage
 
 ## II. Capital Allocation (Q2 2026 - Immediate)
 
@@ -56,7 +55,6 @@
 
 ---
 
-\newpage{}
 
 ## III. ServiceNow Partnership (Q2-Q4 2026)
 
@@ -88,7 +86,6 @@
 
 ---
 
-\newpage{}
 
 ## IV. Revenue Execution (Q2 2026 - Q4 2027)
 
@@ -130,7 +127,6 @@
 
 ---
 
-\newpage{}
 
 ## V. Product and Go-to-Market (Q2 2026 - Q4 2027)
 
@@ -169,7 +165,6 @@
 
 ---
 
-\newpage{}
 
 ## VI. Talent and AI Academy (Q2 2026 - Q4 2027)
 
@@ -202,7 +197,6 @@
 
 ---
 
-\newpage{}
 
 ## VII. Narrative and Investor Relations (Q2 2026 - Q4 2027)
 
@@ -239,7 +233,6 @@
 
 ---
 
-\newpage{}
 
 ## VIII. Competitive Defense (Ongoing)
 
@@ -264,7 +257,6 @@
 
 ---
 
-\newpage{}
 
 ## IX. PeopleSoft Wind-Down Mitigation (Q2 2026 - Q3 2028)
 
@@ -289,7 +281,6 @@
 
 ---
 
-\newpage{}
 
 ## X. Execution Timeline and Milestones
 
@@ -330,7 +321,6 @@
 
 ---
 
-\newpage{}
 
 ## XI. Governance and Reporting
 
@@ -362,7 +352,6 @@
 
 ---
 
-\newpage{}
 
 ## XII. Contingency Plans
 
@@ -392,7 +381,6 @@
 
 ---
 
-\newpage{}
 
 ## XIII. Success Metrics Summary
 
